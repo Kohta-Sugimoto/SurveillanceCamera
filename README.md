@@ -1,12 +1,12 @@
 # SurveillanceCamera
 
-概要  
+# 概要  
 監視カメラです。カメラとサーモグラフィカメラで動体検知を行い、検知したら警告音とLine経由でスマホに通知します。
 このような見た目になります。  
 ![監視カメラ見た目](https://github.com/Kohta-Sugimoto/SurveillanceCamera/blob/master/SurvellanceCameraLook.JPG)  
 配線などの見た目の雑さはありますが、とりあえず機能面に問題はないので...
 
-[参考サイト](https://dream-soft.mydns.jp/blog/developper/smarthome/2020/01/649/)
+[参考サイト](https://dream-soft.mydns.jp/blog/developper/smarthome/2020/01/649/)を見れば、大体のプログラムの動きが分かりやすいと思います。
 
 ## 使用モジュール
 [ラズベリーパイ4 コンピューターモデルB 4GB](https://www.amazon.co.jp/%E3%83%A9%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%82%A44-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A2%E3%83%87%E3%83%ABB-Raspberry-Computer-Model/dp/B07WR5W2D6/ref=sr_1_1_sspa?dchild=1&hvadid=490228284849&hvdev=c&jp-ad-ap=0&keywords=raspberry+pi+4+model+b%2F2gb&qid=1615234339&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1RENTTzJHQ1cwTk8mZW5jcnlwdGVkSWQ9QTAxMTgxNzRJTktISEk1U0xXTFMmZW5jcnlwdGVkQWRJZD1BMUozWEVaNFVTSTlBMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)  
