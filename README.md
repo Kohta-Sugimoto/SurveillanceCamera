@@ -2,8 +2,8 @@
 
 概要  
 監視カメラです。カメラとサーモグラフィカメラで動体検知を行い、検知したら警告音とLine経由でスマホに通知します。
-このような外形になります。  
-![外形](https://github.com/Kohta-Sugimoto/SurveillanceCamera/blob/master/SurvellanceCamera.PNG)  
+このような見た目になります。  
+![監視カメラ見た目](https://github.com/Kohta-Sugimoto/SurveillanceCamera/blob/master/SurvellanceCameraLook.JPG)  
 配線などの見た目の雑さはありますが、とりあえず機能面に問題はないので...
 
 [参考サイト](https://dream-soft.mydns.jp/blog/developper/smarthome/2020/01/649/)
