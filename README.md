@@ -22,7 +22,7 @@ Pi CameraとAMG8833を使用して動体を検知します。検知方法は、�
 
 ## Setting
 以下のように接続しています。  
-![aaa](https://github.com/Kohta-Sugimoto/SurveillanceCamera/blob/master/%E7%9B%A3%E8%A6%96%E3%82%AB%E3%83%A1%E3%83%A9_%E3%83%94%E3%83%B3%E9%85%8D%E5%88%97.PNG)
+![aaa](https://github.com/Kohta-Sugimoto/SurveillanceCamera/blob/master/SurvellanceCameraPIN.PNG)
 
 データのやり取りはI2Cで、電源は3.3Vです。
 
